@@ -1,6 +1,6 @@
 # HashCheck
 
-A python program written to compare two strings and see if they match at its most basic form.
+A python program written using tkinter to compare two strings and see if they match at its most basic form.
 
 Use:
 
